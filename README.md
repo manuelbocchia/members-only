@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Rails app to practice authentication and authorization. 
 
-Things you may want to cover:
+Using Rails 7.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Following TOP lesson here:
+https://www.theodinproject.com/lessons/ruby-on-rails-members-only
