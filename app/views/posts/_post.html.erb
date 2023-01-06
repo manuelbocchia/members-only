@@ -2,6 +2,17 @@
   <p>
     <strong>Title:</strong>
     <%= post.title %>
+    
+    <% if current_user %>
+    
+    by <%= post.user.username %>
+    
+    <% end %>
+
+
+  </p>
+  <p>
+    <%= post.content %>
   </p>
 
 </div>
